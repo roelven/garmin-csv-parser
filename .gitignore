@@ -1,0 +1,22 @@
+# CSV files
+*.csv
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment specific
+.env
+.venv
+venv/
+ENV/
+
+# IDE specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+._*
+Thumbs.db 
