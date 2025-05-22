@@ -77,4 +77,4 @@ Contributions are welcome! If you improve the script or add new features, feel f
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.txt). (You would need to create a LICENSE.txt file with the MIT License text if you want to include this). 
+This project is open-source and available under the [MIT License](LICENSE.txt).
